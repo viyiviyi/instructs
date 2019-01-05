@@ -1,11 +1,11 @@
 # instructs
 一个用来在组件间传递函数/方法的小组件
 
-使用方法：
-引入文件
-导入文件内的createStorage方法
-通过createStorage方法创建一个仓库 返回一个storage对象
-通过storage对象的add方法给仓库添加内容
+使用方法：\n
+引入文件\n
+导入文件内的createStorage方法\n
+通过createStorage方法创建一个仓库 返回一个storage对象\n
+通过storage对象的add方法给仓库添加内容\n
 
 使用仓库内的方法有两种方式
   1、storage对象的run方法得到一个同步执行函数，执行后马上得到返回值
